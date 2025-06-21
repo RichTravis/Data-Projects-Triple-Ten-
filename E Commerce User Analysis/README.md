@@ -1,5 +1,5 @@
 
-# E-Commerce Conversion Funnel & Cohort Retention Analysis
+# E-Commerce User Analysis
 
 ## 📘 Project Overview
 
@@ -15,6 +15,8 @@ The project involved:
 
 ## 📊 Analysis
 
+<a href=“” >Analysis Report</a>
+
 ### Data Description
 The raw dataset consisted of user events classified into three main types:
 - **Product View**
@@ -22,6 +24,8 @@ The raw dataset consisted of user events classified into three main types:
 - **Purchase**
 
 Each event included a timestamp and a user ID, allowing us to track user behavior chronologically.
+
+<img src="ECommerceImage1.png" width=700/>
 
 ---
 
@@ -36,6 +40,8 @@ This highlights key drop-off points in the buying journey.
 
 ### Retention Rates
 Users were grouped into **monthly acquisition cohorts** based on the month of their **first purchase**. Retention was measured across the next four months.
+
+<img src="Ecommerceimage2.png" width=700/>
 
 Key insights:
 - The **September cohort** had the strongest first-month retention (~12%)
